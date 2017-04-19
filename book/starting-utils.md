@@ -41,6 +41,8 @@ sudo -H pip install -U git+https://github.com/3drobotics/solo-cli
 
 Once installed, you should be able to run `solo` from your command line to see the list of available options. For example:
 
+If you get an "ImportError: No module named virtualenv" run "sudo pip install virtualenv"
+
 <div class="host-code"></div>
 
 ```sh
